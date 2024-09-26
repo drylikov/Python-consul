@@ -9,8 +9,6 @@ Documentation
 Status
 ------
 
-|Build Status|\ |Coverage Status|
-
 Example
 -------
 
