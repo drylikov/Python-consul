@@ -30,7 +30,7 @@ Installation
 
 ::
 
-    pip install python-consul
+    pip install Python-consul
 
 .. |Build Status|
    image:: https://img.shields.io/travis/cablehead/python-consul.svg?style=flat-square
