@@ -6,8 +6,6 @@ Documentation
 
 `Read the Docs`_
 
-Status
-------
 
 Example
 -------
